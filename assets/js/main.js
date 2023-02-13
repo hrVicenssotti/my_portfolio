@@ -10,4 +10,4 @@ techs.forEach(tech => {
 })
 setInterval(() => {
      timer.innerHTML = new Date().toLocaleString()
-}, 100)
+}, 500)
